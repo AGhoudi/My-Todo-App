@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Playball&display=swap');
+
+body {
+  background: url("../src/assets/background.jpg") no-repeat;
+  background-size: 100vw minmax(100vh, auto);
+}
+
+h1 {
+  color: #B975FF;
+  text-align: center;
+  font-family: 'Playball', cursive;
+  text-shadow: 2px 1px #798BFF;
+}

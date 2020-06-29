@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&family=Playball&display=swap');
+
+.taskbox {
+    display: flex;
+    justify-content: center;
+}
+
+::placeholder {
+    font-family: 'Pacifico', cursive;  
+}
+
+.green {
+    color: #66c99d;
+}
+
+.addTask {
+    background-color: #798BFF;
+    color: #000;
+    font-size: 18px;
+    border: 1px solid #798BFF;
+    font-family: 'Pacifico', cursive;
+    border-bottom-right-radius: 3px;
+    border-top-right-radius: 3px;
+}
+
+.textTask {
+    border-bottom-left-radius: 3px;
+    border-top-left-radius: 3px;
+    border-color: rgba(0, 0, 0, 0);
+}
