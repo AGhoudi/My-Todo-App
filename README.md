@@ -1,6 +1,6 @@
 <div align=center><img src="https://user-images.githubusercontent.com/27373255/144912766-72d28c9f-25b5-4b30-afe2-d1f9a1ebccf8.png" alt="my todo app"/></div>
 <h2 align=center>🎯 Objectif du projet :</h2>
-<p align=center>Il s'agissait de créer un jeu de memory game, en utilisant le langage javascript.</p>
+<p align=center>Il s'agissait de créer une application de todo, en utilisant react.</p>
 
 <h2 align=center>📝 Description :</h2>
 
