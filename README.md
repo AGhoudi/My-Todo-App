@@ -14,7 +14,7 @@ Il y a un nombre de paires de cartes, une fois qu'on les à toutes trouvées, le
 
 <h2 align=center>💻 Stack utilisé :</h2>
 
-<p align=center>HTML - CSS - Javascript</p>
+<p align=center>HTML - CSS - Javascript - React</p>
 
 <h2 align=center>🌐 Lien web du projet :</h2>
 
