@@ -10,7 +10,7 @@ Le principe de l'application est simple, il s'agit d'une liste de tâches.</br>
 </p>
 
 <h2 align=center>👁️ Visuel :</h2>
-<div align=center><img src="https://i.postimg.cc/XvK18NBm/memory.jpg" alt="visuel du jeu"</div>
+<div align=center><img src="https://user-images.githubusercontent.com/27373255/144913815-9ddd4881-77f1-409e-8a71-ef724e08f2eb.png" alt="my todo app"</div>
 
 <h2 align=center>💻 Stack utilisé :</h2>
 
@@ -21,4 +21,3 @@ Le principe de l'application est simple, il s'agit d'une liste de tâches.</br>
 <p align=center>Voici un lien pour tester l'application:
 
   <a title="https://aghoudi.github.io/My-Todo-App/" role="link" target="_blank" class="text-bold" rel="noopener noreferrer" href="https://aghoudi.github.io/My-Todo-App/">https://aghoudi.github.io/My-Todo-App/</a></p>
-![todo](https://user-images.githubusercontent.com/27373255/144913815-9ddd4881-77f1-409e-8a71-ef724e08f2eb.png)
